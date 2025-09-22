@@ -7,7 +7,6 @@ For the Database Management Systems Course
 - Saimon Shan
 - GD Deng
 - Thomas Fuller
-- 
 ## Project Management Board
 We are using GitHub Projects to manage our tasks.  
 

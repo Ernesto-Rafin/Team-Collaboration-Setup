@@ -1,4 +1,4 @@
-# Team-Collaboration-Setup
+ # Team-Collaboration-Setup
 For the Database Management Systems Course
 # Project Collaboration Setup
 
@@ -6,5 +6,10 @@ For the Database Management Systems Course
 - Ernesto Rafin
 - Saimon Shan
 - GD Deng
+- Thomas Fuller
+- 
+## Project Management Board
+We are using GitHub Projects to manage our tasks.  
 
+![GitHub Project Board](docs/board.png)
 

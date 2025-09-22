@@ -10,5 +10,5 @@ For the Database Management Systems Course
 ## Project Management Board
 We are using GitHub Projects to manage our tasks.  
 
-![GitHub Project Board](docs/board.png)
+
 
